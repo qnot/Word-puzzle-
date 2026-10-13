@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Magnifying glass handle shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M63,65 L77,79 A4,4 0 0,0 83,73 L69,59 Z" />
+
+    <!-- Magnifying glass handle (warm amber) -->
+    <path
+        android:fillColor="#D97706"
+        android:strokeColor="#B45309"
+        android:strokeWidth="1"
+        android:pathData="M62,63 L75,76 A3.5,3.5 0 0,0 80,71 L67,58 Z" />
+
+    <!-- Magnifying glass outer ring shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M52,50 A18,18 0 1,1 51.9,50" />
+
+    <!-- Magnifying glass gold outer ring -->
+    <path
+        android:fillColor="#F59E0B"
+        android:strokeColor="#FDE047"
+        android:strokeWidth="1.5"
+        android:pathData="M50,48 A18,18 0 1,1 49.9,48" />
+
+    <!-- Glass lens interior -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M50,48 A14,14 0 1,1 49.9,48" />
+
+    <!-- Inner discovery tile (warm cream) -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M43,41 L57,41 A2,2 0 0,1 59,43 L59,53 A2,2 0 0,1 57,55 L43,55 A2,2 0 0,1 41,53 L41,43 A2,2 0 0,1 43,41 Z" />
+
+    <!-- Letter 'W' on tile -->
+    <path
+        android:fillColor="#4338CA"
+        android:pathData="M44,44 L46,52 L48,46 L50,46 L52,52 L54,44 L56,44 L53.5,53 L51,53 L49,47.5 L47,53 L44.5,53 L42,44 Z" />
+
+    <!-- Glass reflection highlight -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M41,39 A12,12 0 0,1 59,39 A14,14 0 0,0 41,39 Z" />
+
+    <!-- Sparkle star top-right -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M73,26 Q73,31 78,31 Q73,31 73,36 Q73,31 68,31 Q73,31 73,26 Z" />
+
+    <!-- Sparkle star bottom-left -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M27,58 Q27,62 31,62 Q27,62 27,66 Q27,62 23,62 Q27,62 27,58 Z" />
+
+    <!-- Tiny sparkle star top-left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,29 Q33,31 35,31 Q33,31 33,33 Q33,31 31,31 Q33,31 33,29 Z" />
+</vector>

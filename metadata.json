@@ -1,0 +1,6 @@
+{
+  "name": "Word Discovery Quest",
+  "description": "A colorful offline hidden-word discovery and puzzle adventure game across vibrant environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
